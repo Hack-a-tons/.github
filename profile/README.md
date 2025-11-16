@@ -11,6 +11,9 @@ Rapidly built AI projects and automation tools — mostly created during hackath
   _Stage: prototype, working CLI, early stage_  
   [https://github.com/Hack-a-tons/ai-shell-helper](https://github.com/Hack-a-tons/ai-shell-helper)
 
+- **ai-edit** — CLI AI code editor using Azure OpenAI for natural language code changes  
+  [https://github.com/ai-edit/ai-edit](https://github.com/ai-edit/ai-edit)
+
 ---
 
 ## 2. Video Intelligence / Content Automation
@@ -45,6 +48,9 @@ Rapidly built AI projects and automation tools — mostly created during hackath
 - **MarketPulse** — financial news correlation & ranking  
   _Stage: partial prototype, WIP_  
   [https://github.com/Hack-a-tons/MarketPulse](https://github.com/Hack-a-tons/MarketPulse)
+
+- **fact-checker** — autonomous parallelized real-time fact validation engine  
+  [https://github.com/BIAZ-AI/fact-checker](https://github.com/BIAZ-AI/fact-checker)
 
 ---
 
@@ -89,17 +95,14 @@ Rapidly built AI projects and automation tools — mostly created during hackath
   _Stage: concept prototype_  
   [https://github.com/Hack-a-tons/GhostGrid](https://github.com/Hack-a-tons/GhostGrid)
 
----
-
-## 9. External Projects
-- **ai-edit** — CLI AI code editor using Azure OpenAI for natural language code changes  
-  [https://github.com/ai-edit/ai-edit](https://github.com/ai-edit/ai-edit)
-
-- **AuraContract** — AI blockchain Demand Response network rewarding electricity savings  
-  [https://github.com/Autonomous-Utility-Response-Agent/AuraContract](https://github.com/Autonomous-Utility-Response-Agent/AuraContract)
-
 - **Cow-Tracker** — ESP32 smart farm system for autonomous cow tracking and herd management  
   [https://github.com/Moo-ve-It/Cow-Tracker](https://github.com/Moo-ve-It/Cow-Tracker)
+
+---
+
+## 9. Blockchain / Energy
+- **AuraContract** — AI blockchain Demand Response network rewarding electricity savings  
+  [https://github.com/Autonomous-Utility-Response-Agent/AuraContract](https://github.com/Autonomous-Utility-Response-Agent/AuraContract)
 
 ---
 
