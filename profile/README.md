@@ -49,9 +49,6 @@ Rapidly built AI projects and automation tools — mostly created during hackath
   _Stage: partial prototype, WIP_  
   [https://github.com/Hack-a-tons/MarketPulse](https://github.com/Hack-a-tons/MarketPulse)
 
-- **fact-checker** — autonomous parallelized real-time fact validation engine  
-  [https://github.com/BIAZ-AI/fact-checker](https://github.com/BIAZ-AI/fact-checker)
-
 ---
 
 ## 4. Telegram AI Assistants
